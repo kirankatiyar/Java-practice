@@ -1,6 +1,5 @@
 package OOPs_Concept.Polymorphism;
-
-public class MethodOverloading {
+class MethodOverloading {
     void show(String num){
         System.out.println("my name is..:="+num);
     }
