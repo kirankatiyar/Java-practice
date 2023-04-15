@@ -5,7 +5,7 @@ public class ElectronicItem {
         System.out.println("it is a electronic item");
     }
     void show(){
-        System.out.println("it work by electricity");
+        System.out.println("it work byabstract class vehicle electricity");
     }
     void useful(){
         System.out.println("its soo useful");
