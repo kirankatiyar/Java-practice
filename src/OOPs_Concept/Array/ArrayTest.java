@@ -1,3 +1,4 @@
+//write a program to find out whether a given integer is present in an array or not;
 package OOPs_Concept.Array;
 public class ArrayTest {
     public static void main(String[] args) {
