@@ -16,5 +16,6 @@ public class ArraysSortMethod {
         for(char w:vowels){
             System.out.println(w);
         }
+        System.out.println("length of array is:="+vowels.length);
     }
 }
