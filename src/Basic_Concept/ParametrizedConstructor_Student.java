@@ -3,7 +3,7 @@ public class ParametrizedConstructor_Student {
     //properties of student
     String name;
     int age;
-    // method
+    // methods
     public void printInfo(){
         System.out.println(this.name);
         System.out.println(this.age);
